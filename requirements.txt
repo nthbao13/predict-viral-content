@@ -1,0 +1,4 @@
+# /Users/thanhhuyen/Documents/deplot/predict-viral-content/requirements.txt
+praw
+azure-eventhub
+python-dotenv
